@@ -26,3 +26,7 @@
 \contentsline {section}{\numberline {3.3}¿Qué efectos produce el calor?}{16}{section.3.3}%
 \contentsline {subsection}{\numberline {3.3.1}La dilatación}{17}{subsection.3.3.1}%
 \contentsline {subsection}{\numberline {3.3.2}La contracción}{17}{subsection.3.3.2}%
+\contentsline {chapter}{\numberline {4}La energía}{19}{chapter.4}%
+\contentsline {section}{\numberline {4.1}¿Qué es la energía?}{19}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Tipos de energía}{19}{subsection.4.1.1}%
+\contentsline {section}{\numberline {4.2}Las fuentes de energía}{20}{section.4.2}%

@@ -21,6 +21,19 @@ outer=2.5cm			% Margen al exterior
 \usepackage{afterpage}
 \usepackage{setspace}
 \usepackage{hyperref}
+
+
+%Cuadros de texto
+\usepackage[most]{tcolorbox}
+\newtcolorbox{recuerda}[1]{
+  enhanced,drop fuzzy midday shadow,
+  boxrule=0pt,arc=8pt,boxsep=0pt,
+  left=1em,right=1em,top=1ex,bottom=1ex,
+  colbacktitle=blue!30!white,colback=white,
+  fonttitle=\bfseries,title={\large\flushright #1},bottomtitle=2mm, toptitle=2mm
+}
+
+
 \spacing{1.5}
 
 \definecolor{Verde}{cmyk}{1,0,1,0}

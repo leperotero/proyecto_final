@@ -4,6 +4,7 @@ The top-level auxiliary file: Adaptación FyQ - Primaria.aux
 A level-1 auxiliary file: LaMateria.aux
 A level-1 auxiliary file: Luz.aux
 A level-1 auxiliary file: ElCalor.aux
+A level-1 auxiliary file: Energia.aux
 The style file: plain.bst
 Database file #1: referencias.bib
 Warning--to sort, need author, editor, or key in noauthor_conocimiento_2009
@@ -12,7 +13,7 @@ Warning--empty author and editor in noauthor_conocimiento_2009-1
 Warning--empty author and editor in noauthor_conocimiento_2009
 You've used 4 entries,
             2118 wiz_defined-function locations,
-            523 strings with 4545 characters,
+            524 strings with 4556 characters,
 and the built_in function-call counts, 890 in all, are:
 = -- 83
 > -- 22
